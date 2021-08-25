@@ -1,12 +1,12 @@
 <h2 align="center"> 
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  i am Sanswet Santhanam🙋‍ </h2>
 </h2>
- <h3 align="center">REACT NATIVE DEVELOPER 👨‍💻 || PRESIDENT OF COMMUNITY DEVELOPMENT CLUB SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY🙋 || GIRLS @TECH IN DEVELOPER STUDENT CLUB 💃 || MENTOR IN TEAM KANAA  👧 </h3>
+ <h3 align="center">REACT NATIVE EXPO DEVELOPER 👨‍💻 || PRESIDENT OF COMMUNITY DEVELOPMENT CLUB SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY🙋 ||   💃 || MENTOR IN TEAM KANAA  👧 </h3>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Full stack Development
-- 🌱 I’m currently learning **Django, Reactjs**
+- 🌱 I’m currently learning **React Native,React Native Expo, React.js**
 - 👯 I’m looking to collaborate on web projects
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/SANSWET920?tab=repositories)
 <br><br> 
