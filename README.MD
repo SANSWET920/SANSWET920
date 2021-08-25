@@ -8,7 +8,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - 🔭 I’m currently working on Full stack Development
 - 🌱 I’m currently learning **Django, Reactjs**
 - 👯 I’m looking to collaborate on web projects
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/SANSWET920?tab=repositories)
 <br><br> 
 <p align="center">
 <a href="https://discord.gg/XTW52Kt">
