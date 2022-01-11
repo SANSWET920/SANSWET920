@@ -48,7 +48,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <h2 align="center"> Github Statistics 😎 </h2>
 <p align="center">
- <img src="https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=gotham" alt="JAYAROSHINI" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=gotham" alt="Santhanam" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
