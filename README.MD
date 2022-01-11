@@ -48,7 +48,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <h2 align="center"> Github Statistics 😎 </h2>
 <p align="center">
- <img src="https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=gotham" alt="Santhanam" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://jayaroshinireadme.vercel.app/api?username=&show_icons=true&theme=gotham" alt="Santhanam" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -65,6 +65,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/RoshiniMohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
